@@ -1,6 +1,6 @@
 {
   "name": "personal-website",
-  "homepage": "https://mschristophers.github.io/personal-website",
+  "homepage": "https://mschristophers.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,7 +17,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts build",
+    "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
