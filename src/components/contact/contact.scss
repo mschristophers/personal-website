@@ -1,0 +1,100 @@
+@import "../../global.scss";
+
+.contact {
+  background-color: white;
+  padding: 2rem 2rem 0 2rem;
+  text-align: center;
+
+  .light {
+    font-weight: 300;
+  }
+
+  .regular {
+    font-weight: 400;
+  }
+
+  .has-errors {
+    box-shadow: 0 0 0 1.7pt red;
+    -webkit-animation: shake .25s linear;
+    animation: shake .25s linear;
+  }
+
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1.5rem;
+
+    .field-container {
+      display: flex;
+      flex-direction: column;
+      flex: 1 1;
+      padding: 0 0 1.4rem;
+    }
+
+    .form-error {
+      font-size: 0.8em;
+      color: red;
+      margin-bottom: -.3rem;
+      margin-top: 0.3rem;
+      height: 0;
+    }
+
+    form {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+
+      input,
+      textarea {
+        flex: 1 1;
+        font-size: 1rem;
+        padding: 0.5em 0.75em 0.375em;
+        border: 1px #eeeeee;
+        background: #eeeeee;
+        border-radius: 0.3em;
+        box-sizing: content-box;
+        margin: 0.2rem 4rem 0.2rem 1rem;
+        &:focus, &:active {
+          outline: none;
+          box-shadow: 0 0 0 1.7pt;
+        }
+      }
+
+      #top {
+        display: flex;
+        flex-direction: column;
+      }
+
+      #middle {
+        display: flex;
+        flex-direction: row;
+        padding-bottom: 1.2rem;
+
+        textarea {
+          height: 7.5em;
+          resize: none;
+          -moz-resize: none;
+        }
+      }
+
+      #bottom {
+        display: block;
+        flex-direction: row;
+        justify-content: flex-end;
+        padding-bottom: 0.2rem;
+        align-items: center;
+
+        input {
+          flex: 0 0 12.5em;
+          box-shadow: -2px 2px 6px 0px rgba(00,00,00,0.25);
+          background: #eeeeee;
+          cursor: pointer;
+          padding: 1em;
+          width: 20%;
+        }
+      }
+    }
+  }
+}
