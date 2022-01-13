@@ -17,6 +17,14 @@ export const featuredPortfolio = [
     },
     {
       id: 3,
+      title: "Favorite Pokemon",
+      img:
+        "FavoritePokemon.png",
+      link: "https://github.com/mschristophers/favorite-pokemon",
+      stack: "React, Node.js, FastAPI, SQLAlchemy, Passlib, OAuth, Bulma"
+    },
+    {
+      id: 4,
       title: "VehicleBuy",
       img:
         "VehicleBuy.png",
@@ -24,7 +32,7 @@ export const featuredPortfolio = [
       stack: "React, Node.js, Firebase, DataStax Astra"
     },
     {
-      id: 4,
+      id: 5,
       title: "Market Sentiment",
       img:
         "MarketSentiment.png",
@@ -32,7 +40,7 @@ export const featuredPortfolio = [
       stack: "Python, Jupyter, Scikit-learn, Panda"
     },
     {
-      id: 5,
+      id: 6,
       title: "Ceplas Ceplos",
       img:
         "CeplasCeplos.png",
@@ -40,7 +48,7 @@ export const featuredPortfolio = [
       stack: "React, Node.js, Firebase"
     },
     {
-      id: 6,
+      id: 7,
       title: "Facial Detector",
       img:
         "FacialDetector.png",
@@ -48,7 +56,7 @@ export const featuredPortfolio = [
       stack: "Python, OpenCV"
     },
     {
-      id: 7,
+      id: 8,
       title: "CoinMan",
       img:
         "CoinMan.jpg",
@@ -56,7 +64,7 @@ export const featuredPortfolio = [
       stack: "Java, Android, libGDX"
     },
     {
-      id: 8,
+      id: 9,
       title: "ResearchHub",
       img:
         "ResearchHub.png",
