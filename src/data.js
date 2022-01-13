@@ -80,7 +80,7 @@ export const featuredPortfolio = [
       role: "Full Stack Web Developer",
       location_time: "Waterloo, Ontario, Canada (May 2021 - Sep 2021)",
       activity: "I helped developed the website of a social networking startup focused on digital art enthusiasts and professionals. Built the Challenge feature, a timed art repository with an integrated rewards system, accounting for 80% of the web traffic. I also enhanced the Comment feature by adding likes and subcomments, which contributed in increasing the comment activity by 250% and web traffic by 400%. I also optimized processing of fetched JSON data by rewriting functions, reducing the runtime by 10%.",
-      stack: "React, Next.js, Material UI, Flask, SQLAlchemy, MySQL, AWS, Postman",
+      stack: "React, Next.js, Material UI, Flask, SQLAlchemy, MySQL, Aurora API, AWS, Postman",
       img: "unlimited_logo.jpg",
     },
   ];
