@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/personal-website/static/css/main.4285502b.chunk.css",
-    "main.js": "/personal-website/static/js/main.d74426d5.chunk.js",
-    "main.js.map": "/personal-website/static/js/main.d74426d5.chunk.js.map",
-    "runtime-main.js": "/personal-website/static/js/runtime-main.578bfbd4.js",
-    "runtime-main.js.map": "/personal-website/static/js/runtime-main.578bfbd4.js.map",
-    "static/js/2.fefaa49d.chunk.js": "/personal-website/static/js/2.fefaa49d.chunk.js",
-    "static/js/2.fefaa49d.chunk.js.map": "/personal-website/static/js/2.fefaa49d.chunk.js.map",
-    "static/js/3.a6ef2b07.chunk.js": "/personal-website/static/js/3.a6ef2b07.chunk.js",
-    "static/js/3.a6ef2b07.chunk.js.map": "/personal-website/static/js/3.a6ef2b07.chunk.js.map",
+    "main.js": "/personal-website/static/js/main.22ec1e05.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.22ec1e05.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.69ab68a6.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.69ab68a6.js.map",
+    "static/js/2.ab7d59d1.chunk.js": "/personal-website/static/js/2.ab7d59d1.chunk.js",
+    "static/js/2.ab7d59d1.chunk.js.map": "/personal-website/static/js/2.ab7d59d1.chunk.js.map",
+    "static/js/3.572e6565.chunk.js": "/personal-website/static/js/3.572e6565.chunk.js",
+    "static/js/3.572e6565.chunk.js.map": "/personal-website/static/js/3.572e6565.chunk.js.map",
     "index.html": "/personal-website/index.html",
     "static/css/main.4285502b.chunk.css.map": "/personal-website/static/css/main.4285502b.chunk.css.map",
-    "static/js/2.fefaa49d.chunk.js.LICENSE.txt": "/personal-website/static/js/2.fefaa49d.chunk.js.LICENSE.txt",
+    "static/js/2.ab7d59d1.chunk.js.LICENSE.txt": "/personal-website/static/js/2.ab7d59d1.chunk.js.LICENSE.txt",
     "static/media/CeplasCeplos.png": "/personal-website/static/media/CeplasCeplos.4a3af423.png",
     "static/media/CoinMan.jpg": "/personal-website/static/media/CoinMan.798e9cef.jpg",
     "static/media/FacialDetector.png": "/personal-website/static/media/FacialDetector.cb2f426c.png",
-    "static/media/Manuel_Stefan_Christopher_Resume.pdf": "/personal-website/static/media/Manuel_Stefan_Christopher_Resume.780708ad.pdf",
+    "static/media/Manuel_Stefan_Christopher_Resume.pdf": "/personal-website/static/media/Manuel_Stefan_Christopher_Resume.13f8acc5.pdf",
     "static/media/MarketSentiment.png": "/personal-website/static/media/MarketSentiment.b179a812.png",
     "static/media/RemCol.png": "/personal-website/static/media/RemCol.2e2d9d5e.png",
     "static/media/ResearchHub.png": "/personal-website/static/media/ResearchHub.14682dcf.png",
@@ -24,9 +24,9 @@
     "static/media/unlimited_logo.jpg": "/personal-website/static/media/unlimited_logo.a141cd30.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.578bfbd4.js",
-    "static/js/2.fefaa49d.chunk.js",
+    "static/js/runtime-main.69ab68a6.js",
+    "static/js/2.ab7d59d1.chunk.js",
     "static/css/main.4285502b.chunk.css",
-    "static/js/main.d74426d5.chunk.js"
+    "static/js/main.22ec1e05.chunk.js"
   ]
 }
